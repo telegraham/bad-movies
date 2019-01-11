@@ -251,10 +251,10 @@ function delegateDeleteClick(detail, movieList, emptyState) {
   })
 }
 
-function deleteMovie(movieId, detail){
+function deleteMovie(movieId, detail, emptyState){
   fetch(`http://localhost:3000/movies/${ movieId }`, {
     method: "DELETE"
-  }).then(() => scapeItOffTheDom(movieId, detail))
+  }).then(() => scapeItOffTheDom(movieId, detail, emptyState))
 }
 
 function scapeItOffTheDom(movieId, detail, emptyState) {
