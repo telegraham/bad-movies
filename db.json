@@ -1,0 +1,53 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Spice Wor",
+      "year": "1997",
+      "cast": [
+        "Scary Spice",
+        "Baby Spice",
+        "Posh Spice",
+        "Sporty Spice",
+        "Meat Loaf",
+        "Alan Cumin"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Roo",
+      "year": "2003",
+      "cast": [
+        "Tommy Wiseau",
+        "Greg Sestero",
+        "Juliette Danielle"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Battlefield Ear",
+      "year": "2000",
+      "cast": [
+        "John Travolta"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Twilig",
+      "year": "2008",
+      "cast": [
+        "Kristen Stewart",
+        "Robert Pattinson"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Garden Stat",
+      "year": "2009",
+      "cast": [
+        "Natalie Portman",
+        "Zach Braff"
+      ]
+    }
+  ]
+}
