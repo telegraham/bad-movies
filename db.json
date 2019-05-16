@@ -5,17 +5,17 @@
       "title": "Spice Wor",
       "year": "1997",
       "cast": [
-        "Scary Spice",
         "Baby Spice",
         "Posh Spice",
         "Sporty Spice",
         "Meat Loaf",
-        "Alan Cumin"
+        "Alan Cumin",
+        "Scary Spice"
       ]
     },
     {
       "id": 2,
-      "title": "The Roo",
+      "title": "The Room",
       "year": "2003",
       "cast": [
         "Tommy Wiseau",
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "title": "Battlefield Ear",
+      "title": "Battlefield Earth",
       "year": "2000",
       "cast": [
         "John Travolta"
@@ -33,7 +33,7 @@
     },
     {
       "id": 4,
-      "title": "Twilig",
+      "title": "Twilight",
       "year": "2008",
       "cast": [
         "Kristen Stewart",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "title": "Garden Stat",
+      "title": "Garden State",
       "year": "2009",
       "cast": [
         "Natalie Portman",
